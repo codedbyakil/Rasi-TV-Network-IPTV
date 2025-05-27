@@ -9,7 +9,7 @@ http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/index.m3u8
 http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/index.m3u8
 #EXTINF:-1 tvg-name="Rasi Hollywood" tvg-logo="https://raw.githubusercontent.com/codedbyakil/Rasi-TV-Network-IPTV/refs/heads/main/Logos/rasi_hollywood.png" group-title="RASI TV NETWORK",Rasi Hollywood
 http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/index.m3u8
-#EXTINF:-1 tvg-name="Rasi Classic" tvg-logo="https://example.com/logos/rasiclassic.png" group-title="RASI TV NETWORK",Rasi Classic
+#EXTINF:-1 tvg-name="Rasi Classic" tvg-logo="https://raw.githubusercontent.com/codedbyakil/Rasi-TV-Network-IPTV/refs/heads/main/Logos/rasi_classic.png" group-title="RASI TV NETWORK",Rasi Classic
 http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/index.m3u8
 #EXTINF:-1 tvg-name="Rasi Comedy" tvg-logo="https://raw.githubusercontent.com/codedbyakil/Rasi-TV-Network-IPTV/refs/heads/main/Logos/rasi_comedy.png" group-title="RASI TV NETWORK",Rasi Comedy
 http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/index.m3u8
