@@ -6,7 +6,7 @@ You can use the playlist in two ways:
 
 ❖Copy the raw M3U file URL:
 
-https://raw.githubusercontent.com/your-username/your-repo/main/rasi.m3u
+https://raw.githubusercontent.com/codedbyakil/Rasi-TV-Network-IPTV/refs/heads/main/Rasi.m3u
 
 ❖Open your IPTV app (like OTT Navigator or TiviMate).
 
