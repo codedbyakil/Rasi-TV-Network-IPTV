@@ -1,15 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-name="Rasi TV" tvg-logo="https://raw.githubusercontent.com/codedbyakil/Rasi-TV-Network-IPTV/refs/heads/main/Logos/rasi_tv.png" group-title="RASI TV NETWORK",Rasi TV
+#EXTINF:-1 tvg-name="Rasi TV" tvg-logo="https://raw.githubusercontent.com/codedbyakil/Rasi-TV-Network-IPTV/refs/heads/main/Logos/rasi_tv.png",Rasi TV
 http://rasinetworks.in:1935/rasitvhd/rasitvhd.stream_aac/playlist.m3u8
-#EXTINF:-1 tvg-name="Rasi Tamil" tvg-logo="https://raw.githubusercontent.com/codedbyakil/Rasi-TV-Network-IPTV/refs/heads/main/Logos/rasi_tamil.png" group-title="RASI TV NETWORK",Rasi Tamil
+#EXTINF:-1 tvg-name="Rasi Tamil" tvg-logo="https://raw.githubusercontent.com/codedbyakil/Rasi-TV-Network-IPTV/refs/heads/main/Logos/rasi_tamil.png",Rasi Tamil
 http://rasinetworks.in:1935/rasitamil/rasitamil.stream_aac/index.m3u8
-#EXTINF:-1 tvg-name="Rasi Movies" tvg-logo="https://raw.githubusercontent.com/codedbyakil/Rasi-TV-Network-IPTV/refs/heads/main/Logos/rasi_movies.png" group-title="RASI TV NETWORK",Rasi Movies
+#EXTINF:-1 tvg-name="Rasi Movies" tvg-logo="https://raw.githubusercontent.com/codedbyakil/Rasi-TV-Network-IPTV/refs/heads/main/Logos/rasi_movies.png",Rasi Movies
 http://rasinetworks.in:1935/rasimovies/rasimovies.stream_aac/index.m3u8
-#EXTINF:-1 tvg-name="Rasi Music" tvg-logo="https://raw.githubusercontent.com/codedbyakil/Rasi-TV-Network-IPTV/refs/heads/main/Logos/rasi_music.png" group-title="RASI TV NETWORK",Rasi Music
+#EXTINF:-1 tvg-name="Rasi Music" tvg-logo="https://raw.githubusercontent.com/codedbyakil/Rasi-TV-Network-IPTV/refs/heads/main/Logos/rasi_music.png",Rasi Music
 http://rasinetworks.in:1935/rasimusic/rasimusic.stream_aac/index.m3u8
-#EXTINF:-1 tvg-name="Rasi Hollywood" tvg-logo="https://raw.githubusercontent.com/codedbyakil/Rasi-TV-Network-IPTV/refs/heads/main/Logos/rasi_hollywood.png" group-title="RASI TV NETWORK",Rasi Hollywood
+#EXTINF:-1 tvg-name="Rasi Hollywood" tvg-logo="https://raw.githubusercontent.com/codedbyakil/Rasi-TV-Network-IPTV/refs/heads/main/Logos/rasi_hollywood.png",Rasi Hollywood
 http://rasinetworks.in:1935/rasihollywood/rasihollywood.stream_aac/index.m3u8
-#EXTINF:-1 tvg-name="Rasi Classic" tvg-logo="https://raw.githubusercontent.com/codedbyakil/Rasi-TV-Network-IPTV/refs/heads/main/Logos/rasi_classic.png" group-title="RASI TV NETWORK",Rasi Classic
+#EXTINF:-1 tvg-name="Rasi Classic" tvg-logo="https://raw.githubusercontent.com/codedbyakil/Rasi-TV-Network-IPTV/refs/heads/main/Logos/rasi_classic.png",Rasi Classic
 http://rasinetworks.in:1935/rasiclassic/rasiclassic.stream_aac/index.m3u8
-#EXTINF:-1 tvg-name="Rasi Comedy" tvg-logo="https://raw.githubusercontent.com/codedbyakil/Rasi-TV-Network-IPTV/refs/heads/main/Logos/rasi_comedy.png" group-title="RASI TV NETWORK",Rasi Comedy
+#EXTINF:-1 tvg-name="Rasi Comedy" tvg-logo="https://raw.githubusercontent.com/codedbyakil/Rasi-TV-Network-IPTV/refs/heads/main/Logos/rasi_comedy.png",Rasi Comedy
 http://rasinetworks.in:1935/rasicomedy/rasicomedy.stream_aac/index.m3u8
